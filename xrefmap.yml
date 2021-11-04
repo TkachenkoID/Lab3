@@ -1,0 +1,231 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Lab03_B
+  name: Lab03_B
+  href: api/Lab03_B.html
+  commentId: N:Lab03_B
+  fullName: Lab03_B
+  nameWithType: Lab03_B
+- uid: Lab03_B.Stall
+  name: Stall
+  href: api/Lab03_B.Stall.html
+  commentId: T:Lab03_B.Stall
+  fullName: Lab03_B.Stall
+  nameWithType: Stall
+- uid: Lab03_B.Stall.#ctor
+  name: Stall()
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall__ctor
+  commentId: M:Lab03_B.Stall.#ctor
+  fullName: Lab03_B.Stall.Stall()
+  nameWithType: Stall.Stall()
+- uid: Lab03_B.Stall.#ctor(System.String)
+  name: Stall(String)
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall__ctor_System_String_
+  commentId: M:Lab03_B.Stall.#ctor(System.String)
+  fullName: Lab03_B.Stall.Stall(System.String)
+  nameWithType: Stall.Stall(String)
+- uid: Lab03_B.Stall.#ctor(System.String,System.Int32)
+  name: Stall(String, Int32)
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall__ctor_System_String_System_Int32_
+  commentId: M:Lab03_B.Stall.#ctor(System.String,System.Int32)
+  fullName: Lab03_B.Stall.Stall(System.String, System.Int32)
+  nameWithType: Stall.Stall(String, Int32)
+- uid: Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32)
+  name: Stall(String, Int32, Int32)
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall__ctor_System_String_System_Int32_System_Int32_
+  commentId: M:Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32)
+  fullName: Lab03_B.Stall.Stall(System.String, System.Int32, System.Int32)
+  nameWithType: Stall.Stall(String, Int32, Int32)
+- uid: Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32,System.Int32)
+  name: Stall(String, Int32, Int32, Int32)
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall__ctor_System_String_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.Stall.Stall(System.String, System.Int32, System.Int32, System.Int32)
+  nameWithType: Stall.Stall(String, Int32, Int32, Int32)
+- uid: Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: Stall(String, Int32, Int32, Int32, Int32)
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall__ctor_System_String_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.Stall.Stall(System.String, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Stall.Stall(String, Int32, Int32, Int32, Int32)
+- uid: Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: Stall(String, Int32, Int32, Int32, Int32, Int32)
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall__ctor_System_String_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.Stall.Stall(System.String, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Stall.Stall(String, Int32, Int32, Int32, Int32, Int32)
+- uid: Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String)
+  name: Stall(String, Int32, Int32, Int32, Int32, Int32, String)
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall__ctor_System_String_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_String_
+  commentId: M:Lab03_B.Stall.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String)
+  fullName: Lab03_B.Stall.Stall(System.String, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.String)
+  nameWithType: Stall.Stall(String, Int32, Int32, Int32, Int32, Int32, String)
+- uid: Lab03_B.Stall.#ctor*
+  name: Stall
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall__ctor_
+  commentId: Overload:Lab03_B.Stall.#ctor
+  isSpec: "True"
+  fullName: Lab03_B.Stall.Stall
+  nameWithType: Stall.Stall
+- uid: Lab03_B.Stall.GetInfo
+  name: GetInfo()
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall_GetInfo
+  commentId: M:Lab03_B.Stall.GetInfo
+  fullName: Lab03_B.Stall.GetInfo()
+  nameWithType: Stall.GetInfo()
+- uid: Lab03_B.Stall.GetInfo*
+  name: GetInfo
+  href: api/Lab03_B.Stall.html#Lab03_B_Stall_GetInfo_
+  commentId: Overload:Lab03_B.Stall.GetInfo
+  isSpec: "True"
+  fullName: Lab03_B.Stall.GetInfo
+  nameWithType: Stall.GetInfo
+- uid: Lab03_B.Supermarket
+  name: Supermarket
+  href: api/Lab03_B.Supermarket.html
+  commentId: T:Lab03_B.Supermarket
+  fullName: Lab03_B.Supermarket
+  nameWithType: Supermarket
+- uid: Lab03_B.Supermarket.#ctor
+  name: Supermarket()
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor
+  commentId: M:Lab03_B.Supermarket.#ctor
+  fullName: Lab03_B.Supermarket.Supermarket()
+  nameWithType: Supermarket.Supermarket()
+- uid: Lab03_B.Supermarket.#ctor(System.String)
+  name: Supermarket(String)
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor_System_String_
+  commentId: M:Lab03_B.Supermarket.#ctor(System.String)
+  fullName: Lab03_B.Supermarket.Supermarket(System.String)
+  nameWithType: Supermarket.Supermarket(String)
+- uid: Lab03_B.Supermarket.#ctor(System.String,System.Int32)
+  name: Supermarket(String, Int32)
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor_System_String_System_Int32_
+  commentId: M:Lab03_B.Supermarket.#ctor(System.String,System.Int32)
+  fullName: Lab03_B.Supermarket.Supermarket(System.String, System.Int32)
+  nameWithType: Supermarket.Supermarket(String, Int32)
+- uid: Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32)
+  name: Supermarket(String, Int32, Int32)
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor_System_String_System_Int32_System_Int32_
+  commentId: M:Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32)
+  fullName: Lab03_B.Supermarket.Supermarket(System.String, System.Int32, System.Int32)
+  nameWithType: Supermarket.Supermarket(String, Int32, Int32)
+- uid: Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32)
+  name: Supermarket(String, Int32, Int32, Int32)
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor_System_String_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.Supermarket.Supermarket(System.String, System.Int32, System.Int32, System.Int32)
+  nameWithType: Supermarket.Supermarket(String, Int32, Int32, Int32)
+- uid: Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: Supermarket(String, Int32, Int32, Int32, Int32)
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor_System_String_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.Supermarket.Supermarket(System.String, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Supermarket.Supermarket(String, Int32, Int32, Int32, Int32)
+- uid: Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: Supermarket(String, Int32, Int32, Int32, Int32, Int32)
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor_System_String_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.Supermarket.Supermarket(System.String, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Supermarket.Supermarket(String, Int32, Int32, Int32, Int32, Int32)
+- uid: Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: Supermarket(String, Int32, Int32, Int32, Int32, Int32, Int32)
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor_System_String_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.Supermarket.Supermarket(System.String, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Supermarket.Supermarket(String, Int32, Int32, Int32, Int32, Int32, Int32)
+- uid: Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  name: Supermarket(String, Int32, Int32, Int32, Int32, Int32, Int32, Single)
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor_System_String_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
+  commentId: M:Lab03_B.Supermarket.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  fullName: Lab03_B.Supermarket.Supermarket(System.String, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  nameWithType: Supermarket.Supermarket(String, Int32, Int32, Int32, Int32, Int32, Int32, Single)
+- uid: Lab03_B.Supermarket.#ctor*
+  name: Supermarket
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket__ctor_
+  commentId: Overload:Lab03_B.Supermarket.#ctor
+  isSpec: "True"
+  fullName: Lab03_B.Supermarket.Supermarket
+  nameWithType: Supermarket.Supermarket
+- uid: Lab03_B.Supermarket.GetInfo
+  name: GetInfo()
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket_GetInfo
+  commentId: M:Lab03_B.Supermarket.GetInfo
+  fullName: Lab03_B.Supermarket.GetInfo()
+  nameWithType: Supermarket.GetInfo()
+- uid: Lab03_B.Supermarket.GetInfo*
+  name: GetInfo
+  href: api/Lab03_B.Supermarket.html#Lab03_B_Supermarket_GetInfo_
+  commentId: Overload:Lab03_B.Supermarket.GetInfo
+  isSpec: "True"
+  fullName: Lab03_B.Supermarket.GetInfo
+  nameWithType: Supermarket.GetInfo
+- uid: Lab03_B.TradingEstablishment
+  name: TradingEstablishment
+  href: api/Lab03_B.TradingEstablishment.html
+  commentId: T:Lab03_B.TradingEstablishment
+  fullName: Lab03_B.TradingEstablishment
+  nameWithType: TradingEstablishment
+- uid: Lab03_B.TradingEstablishment.#ctor
+  name: TradingEstablishment()
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment__ctor
+  commentId: M:Lab03_B.TradingEstablishment.#ctor
+  fullName: Lab03_B.TradingEstablishment.TradingEstablishment()
+  nameWithType: TradingEstablishment.TradingEstablishment()
+- uid: Lab03_B.TradingEstablishment.#ctor(System.String)
+  name: TradingEstablishment(String)
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment__ctor_System_String_
+  commentId: M:Lab03_B.TradingEstablishment.#ctor(System.String)
+  fullName: Lab03_B.TradingEstablishment.TradingEstablishment(System.String)
+  nameWithType: TradingEstablishment.TradingEstablishment(String)
+- uid: Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32)
+  name: TradingEstablishment(String, Int32)
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment__ctor_System_String_System_Int32_
+  commentId: M:Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32)
+  fullName: Lab03_B.TradingEstablishment.TradingEstablishment(System.String, System.Int32)
+  nameWithType: TradingEstablishment.TradingEstablishment(String, Int32)
+- uid: Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32,System.Int32)
+  name: TradingEstablishment(String, Int32, Int32)
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment__ctor_System_String_System_Int32_System_Int32_
+  commentId: M:Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32,System.Int32)
+  fullName: Lab03_B.TradingEstablishment.TradingEstablishment(System.String, System.Int32, System.Int32)
+  nameWithType: TradingEstablishment.TradingEstablishment(String, Int32, Int32)
+- uid: Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32,System.Int32,System.Int32)
+  name: TradingEstablishment(String, Int32, Int32, Int32)
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment__ctor_System_String_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.TradingEstablishment.TradingEstablishment(System.String, System.Int32, System.Int32, System.Int32)
+  nameWithType: TradingEstablishment.TradingEstablishment(String, Int32, Int32, Int32)
+- uid: Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: TradingEstablishment(String, Int32, Int32, Int32, Int32)
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment__ctor_System_String_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.TradingEstablishment.TradingEstablishment(System.String, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: TradingEstablishment.TradingEstablishment(String, Int32, Int32, Int32, Int32)
+- uid: Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: TradingEstablishment(String, Int32, Int32, Int32, Int32, Int32)
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment__ctor_System_String_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Lab03_B.TradingEstablishment.#ctor(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Lab03_B.TradingEstablishment.TradingEstablishment(System.String, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: TradingEstablishment.TradingEstablishment(String, Int32, Int32, Int32, Int32, Int32)
+- uid: Lab03_B.TradingEstablishment.#ctor*
+  name: TradingEstablishment
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment__ctor_
+  commentId: Overload:Lab03_B.TradingEstablishment.#ctor
+  isSpec: "True"
+  fullName: Lab03_B.TradingEstablishment.TradingEstablishment
+  nameWithType: TradingEstablishment.TradingEstablishment
+- uid: Lab03_B.TradingEstablishment.GetInfo
+  name: GetInfo()
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment_GetInfo
+  commentId: M:Lab03_B.TradingEstablishment.GetInfo
+  fullName: Lab03_B.TradingEstablishment.GetInfo()
+  nameWithType: TradingEstablishment.GetInfo()
+- uid: Lab03_B.TradingEstablishment.GetInfo*
+  name: GetInfo
+  href: api/Lab03_B.TradingEstablishment.html#Lab03_B_TradingEstablishment_GetInfo_
+  commentId: Overload:Lab03_B.TradingEstablishment.GetInfo
+  isSpec: "True"
+  fullName: Lab03_B.TradingEstablishment.GetInfo
+  nameWithType: TradingEstablishment.GetInfo
